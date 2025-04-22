@@ -1,4 +1,4 @@
-# R1_Sellshop
+# R1_Crafting
 An advanced crafting script that enchances the roleplay on your server!
 
 ## Features
